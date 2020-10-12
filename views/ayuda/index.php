@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h2>Está en ayuda</h2>
-</body>
-</html>
+<?php require 'views/header.php'; ?>
+<main class="main">
+    <h1>Está en ayuda</h1>
+</main>
+<?php require 'views/footer.php'; ?>
